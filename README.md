@@ -45,7 +45,7 @@ This is a tamper-proof event logging system designed to receive and store event 
 
 #### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/event-logging-system.git
+git clone https://github.com/alamrehan1234/event-logging-system.git
 cd event-logging-system
 ```
 
